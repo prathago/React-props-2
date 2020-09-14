@@ -28,7 +28,7 @@ ReactDOM.render(
 For more details see reactjs.org.
 
 ### React Template
-Download the best React Themes & templates developed by Creative Tim. Join over 1,291,072 creatives that already love our bootstrap resources!
+Download the best React Themes & templates developed by Creative Tim, a developer. Join over 1,291,072 creatives that already love our bootstrap resources!
 For more information visit https://www.creative-tim.com/templates/react.
 
 ### Support or Contact
