@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to React
 
-You can use the [editor on GitHub](https://github.com/prathago/React-props-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+React is an open-source JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### React
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Write a sample React program using JSX
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+var React = require("react");
+var ReactDOM = require("react-dom");
 
-- Bulleted
-- List
+ReactDOM.render(<h1>Hello World!</h1>, document.getElementById("root"));
 
-1. Numbered
-2. List
+OR 
+import React from "react";
+import ReactDOM from "react-dom"
 
-**Bold** and _Italic_ and `Code` text
+ReactDOM.render(
+  <h1>Hello World!</h1>, 
+  document.getElementById("root")
+  );
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see reactjs.org.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prathago/React-props-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### React Template
+Download the best React Themes & templates developed by Creative Tim. Join over 1,291,072 creatives that already love our bootstrap resources!
+For more information visit https://www.creative-tim.com/templates/react.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble using React, got udemy.com and visit the web-development course to become a full stacked devoloper using React.
